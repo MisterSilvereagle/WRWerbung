@@ -31026,17 +31026,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
  /*begin-variables custom-site-css*/@font-face {
 	font-family: 'Minecraft Evenings';
-	src: url('https://github.com/MisterSilvereagle/MisterSilvereagle.github.io/raw/master/assets/fonts/fontawesome/Minecraft-Evenings.ttf.woff');
+	src: url('https://github.com/MisterSilvereagle/MisterSilvereagle.github.io/raw/master/assets/fonts/fontawesome/Minecraft-Evenings.ttf.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Intro';
-	src: url('https://github.com/MisterSilvereagle/MisterSilvereagle.github.io/raw/master/assets/fonts/fontawesome/Intro.ttf.woff');
+	src: url('https://github.com/MisterSilvereagle/MisterSilvereagle.github.io/raw/master/assets/fonts/fontawesome/Intro.ttf.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Intro Inline';
-	src: url('https://github.com/MisterSilvereagle/MisterSilvereagle.github.io/raw/master/assets/fonts/fontawesome/Intro-Inline.ttf.woff');
+	src: url('https://github.com/MisterSilvereagle/MisterSilvereagle.github.io/raw/master/assets/fonts/fontawesome/Intro-Inline.ttf.woff') format('woff');
 }
 
 .mce {
